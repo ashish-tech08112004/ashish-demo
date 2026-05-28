@@ -1,3 +1,4 @@
 # ashish-demo
-This is my first Git Repository
-Author - Ashish Tiwari 
+This is my first Git Repository. 
+<br>
+Author - Ashish Tiwari
